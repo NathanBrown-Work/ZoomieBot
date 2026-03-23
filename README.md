@@ -2,9 +2,9 @@
 An autonomous two-wheeled robot designed for line-following, color-based speed control, and object avoidance.
 
 It should be informed that the Python code for OpenCV color detection ran on a separate computer, while the
-C code was directly uploaded to the Teensy 4.0 Microcontroller.
+C++ code was directly uploaded to the Teensy 4.0 Microcontroller.
 
-All Python code was written in PyCharm, and all C code was written in Microsoft VisualStudio
+All Python code was written in PyCharm, and all C++ code was written in Microsoft VisualStudio
 
 ---== Libraries Used ==---
 - QTRSensors; Acquired via VisualStudio
